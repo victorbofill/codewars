@@ -4,20 +4,20 @@
 // index that would make this happen, return -1.
 let array = [1,2,3];
 
-function findEvenIndex(arr)
-{
-    let number;
+const job = [1,2,3,4,3,2,1];
 
+function findEvenIndex(arr) {
+    let left = 0;
+    let right = 0;
+    
     for (let i = 0; i < arr.length; i++) {
+        left = 0;
+        right = 0;
+
+
+
+
     }
-
-
-// add every number to its left
-// add every number to its right
-// compare the numbers
-
-
-
 }
-
+findEvenIndex(job);
 // https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/javascript
