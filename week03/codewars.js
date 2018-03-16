@@ -1,5 +1,5 @@
 // WEEKLY CHALLENGE: https://www.codewars.com/kata/sum-of-odd-cubed-numbers/train/javascript
-//
+// SOLUTION
 function cubeOdd(arr) {
   let total = 0;
   arr.forEach(function(num) {
